@@ -1,0 +1,27 @@
+node_modules
+dist
+.DS_Store
+backend/public
+vite.config.ts.*
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Reports generated
+compiler-pm-phase2/reports/*.pdf
+
+# OS
+Thumbs.db
+Desktop.ini

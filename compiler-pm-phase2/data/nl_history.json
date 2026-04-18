@@ -1,0 +1,6 @@
+[
+  {
+    "nl": "show me the most 5 polluted zone",
+    "sql": "SELECT * "
+  }
+]

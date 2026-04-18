@@ -1,0 +1,5 @@
+timestamp,automata,event,from,to,note
+2026-03-29T23:32:32.767232,Sensor Cycle,anomaly_detected,ACTIVE,SIGNALED,ACTIVE --anomaly_detected--> SIGNALED
+2026-03-29T23:32:51.544217,Sensor Cycle,breakdown,ACTIVE,OUT_OF_SERVICE,ACTIVE --breakdown--> OUT_OF_SERVICE
+2026-03-29T23:32:59.919011,Sensor Cycle,breakdown,ACTIVE,OUT_OF_SERVICE,ACTIVE --breakdown--> OUT_OF_SERVICE
+2026-03-29T23:33:06.827835,Sensor Cycle,maintenance_start,ACTIVE,ACTIVE,Event 'maintenance_start' not valid from state ACTIVE (expected OUT_OF_SERVICE)
