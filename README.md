@@ -30,8 +30,6 @@ et le langage naturel à SQL. Projet académique — <i>Théorie des Langages &a
 
 ## 📸 Captures
 
-> Remplace les deux emplacements ci-dessous par tes captures (`docs/screenshots/01-compilateur-nl-sql.png`), puis mets à jour les chemins.
-
 <p align="center">
   <img src="docs/screenshots/PLACEHOLDER-01-compilateur-nl-sql.svg" width="49%" alt="Compilateur français vers SQL"/>
   <img src="docs/screenshots/PLACEHOLDER-02-dashboard-ville.svg" width="49%" alt="Tableau de bord ville"/>
